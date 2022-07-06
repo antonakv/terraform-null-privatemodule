@@ -12,4 +12,29 @@ create a private module in GitHub
 - OAuth Access to GitHub configured
 [Configuring GitHub.com Access (OAuth)](https://www.terraform.io/cloud-docs/vcs/github)
 
+## Implementation
+
+- Create github repository called terraform-<PROVIDER>-<NAME>
+
+- Add module files to the github repository
+
+- Tag repository with version number
+
+- Login to the app.terraform.io
+
+- Navigate to the Registry header
+
+- Click Modules
+
+- Click Publish a module
+
+- Click Github
+
+- Select module from the list
+
+- Click Publish module
+
+
+
+
 
